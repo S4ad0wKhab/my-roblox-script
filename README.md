@@ -10,3 +10,5 @@
 **Luac Loader** - Lua 5.1 **(S4ad0wKhab)**
 
 **Kavo Library** - ??? **(federal6768)**
+
+**Cjson Compat (cjson_compat.lua)** - Lua-CJSON 2.1.0+ **(S4ad0wKhab)**
