@@ -7,5 +7,6 @@
 
 # ในนี้มีสคริปอะไรบ้าง???
 ## ไลบารี
-**Luac Loader** - Lua 5.1 **(สร้างขึ้นเอง)**
-**Kavo Library** - 
+**Luac Loader** - Lua 5.1 **(S4ad0wKhab)**
+
+**Kavo Library** - ??? **(federal6768)**
